@@ -1,4 +1,4 @@
-# Multidimensional Structure Project
+# Multidimensional Structures Project
 
 <h2>Μέλη ομάδας</h2>
 
